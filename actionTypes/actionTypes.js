@@ -1,0 +1,7 @@
+export const CREATE_NEW_WORKOUT = 'CREATE_NEW_WORKOUT';
+export const FINISH_WORKOUT = 'FINISH_WORKOUT';
+export const ADD_EXERCISE = 'ADD_EXERCISE';
+export const ADD_SET = 'ADD_SET';
+export const FINISH_EXERCISE = 'FINISH_EXERCISE';
+export const UPDATE_REPS = 'UPDATE_REPS';
+export const UPDATE_WEIGHT = 'UPDATE_WEIGHT';

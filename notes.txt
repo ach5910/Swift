@@ -1,0 +1,19 @@
+Next Step:
+- figure out set item design
+- determine exercise design
+- should deleting
+- support exercises changing order
+- loads previous workouts
+- load previous exercises with data
+- should list on home of previous workouts
+- google sign in
+- time sets?
+- time exercise?
+- Don't allow empty string to be submitted
+- allow user  to change increment/decrement values
+- calendar of workouts
+- point system integration
+- what happens if you quit halfway through a workout
+- Fill out exercise list item
+- insert icons
+- determine design spec, colors, flow
